@@ -1,7 +1,7 @@
 # BD-E-Commerce-main
 Desafio Banco de Dados – E-COMMERCE
 ### Desafio Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
-<p>Aluna: Mirian Ajiki Molicawa </p>
+<p>Aluno: Weverton lopes </p>
 <p>Digital Innovation One </p>
 <p>Instrutora:Juliana Mascarenhas </p>
 
