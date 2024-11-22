@@ -33,7 +33,6 @@ Base: Juliana Mascarenhas
 [DBdesigner] (https://dbdesigner.page.link/inDzBhmQ9vjWWjpw8)
 
 No BD_E_Commerce1 - Variáveis criadas durante o curso pela professora
-![Projeto_Conceitual_By_Juliana_Mascarenhas](https://user-images.githubusercontent.com/91148791/190838970-a18ecd7e-7fca-4b41-83df-af81ef770d31.png)
 
 Fornecedor
 ID_Fornecedor
